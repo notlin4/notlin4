@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm notlin4, a Minecraft mod translator from Taiwan. I translate mods into traditional Chinese (Taiwan) and write documentation in English.
+I'm notlin4, a Minecraft mod translator from Taiwan. I translate mods into traditional Chinese (Taiwan).
 
 ## Contact Me
 
