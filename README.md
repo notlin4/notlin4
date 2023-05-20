@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**notlin4/notlin4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm notlin4, a Minecraft mod translator from Taiwan. I translate mods into traditional Chinese (Taiwan) and write documentation in English.
 
-Here are some ideas to get you started:
+## Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: iamnotlin4@gmail.com
+- 🎮 Discord: notlin4#4218 (ID: 849925060726358026)
+- 🌍 Crowdin: notlin4
+
+## Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=notlin4&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues)
+
+Feel free to contact me if you have any questions or would like to collaborate on a project. Thanks for stopping by!
